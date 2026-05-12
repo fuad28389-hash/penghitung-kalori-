@@ -1,0 +1,11 @@
+{
+  "name": "NutriCalc AI",
+  "description": "Asisten kesehatan digital untuk hitung TDEE dan analisis nutrisi makanan berbasis AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered nutrition analysis",
+    "TDEE calculator"
+  ]
+}
